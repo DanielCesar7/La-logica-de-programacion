@@ -7,3 +7,4 @@ la idea es ir practicando y coguiendo soltura con la lógica de programación en
 ### Java
 
 1. [FIZZ BUZZ](./js/FIZZ_BUZZ/index.html)
+2. [Anagrama](./js/Anagrama/index.html)
