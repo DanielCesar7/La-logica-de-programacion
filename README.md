@@ -10,3 +10,4 @@ La idea es ir practicando y coguiendo soltura con la lógica de programación en
 2. [ANAGRAMA](./js/Anagrama/index.html)
 3. [FIBONACCI](./js/FIBONACCI/index.html)
 4. [PRIMO](./js/Primo/index.html)
+5. [POLIGONO](./js/Poligono/index.html)
