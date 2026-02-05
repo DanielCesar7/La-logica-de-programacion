@@ -9,3 +9,4 @@ La idea es ir practicando y coguiendo soltura con la lógica de programación en
 1. [FIZZ BUZZ](./js/FIZZ_BUZZ/index.html)
 2. [ANAGRAMA](./js/Anagrama/index.html)
 3. [FIBONACCI](./js/FIBONACCI/index.html)
+4. [PRIMO](./js/Primo/index.html)
